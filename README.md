@@ -1,4 +1,7 @@
-# Molecular Graphs
+# Hydrophobicity Graph Classifier
+
+This project is about creating a graph neural network that classifies molecular graphs as being hydrophobic or hydrophilic.
+The trained model is based on graph convolutional netowork as decribed in [Kipf and Welling (2017)](https://arxiv.org/abs/1609.02907)
 
 ## Environment Management
 
